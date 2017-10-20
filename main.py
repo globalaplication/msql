@@ -14,7 +14,7 @@ print '{} saniyede {} data kaydedildi.'.format(t1-t0, 5)
 #msql.DELETE_(1, 'test')
 #msql.gettables()
 #msql.getrows('test') #-> test:table
-#msql.gettype('test)
+#msql.gettype('test')
 #msql.gets('test', 1)
 #msql.count('test')
 #msql.tableinfo_()
